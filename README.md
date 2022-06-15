@@ -11,3 +11,6 @@ That's the simplest reason for the creation of **簡易讀中文 Learn Pinyin & 
 4. Click "找讀音" button to generate Pinyin & Zhuyin.
 
 ![image](https://user-images.githubusercontent.com/21699933/173756684-ccd3d5d7-ddcc-4192-a37f-a98afb94c2ee.png)
+
+## Remarks
+This is my first Tkinter app.
